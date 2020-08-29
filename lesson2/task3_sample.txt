@@ -1,0 +1,5 @@
+-- Создаем БД sample в консоли:
+create database sample;
+use sample
+source example_dump 
+
